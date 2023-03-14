@@ -13,6 +13,7 @@ public class Methods {
         int y = 4;
 
         int z = add(x,y);
+        System.out.println(add(x,y));
 
     }
     
